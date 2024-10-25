@@ -1,0 +1,18 @@
+body,
+html {
+    padding: 1%;
+}
+
+body {
+    background-image: url(./img/bc4792720c2515308c5fa1645a40478f.jpg);
+    background-size: cover;
+}
+
+.form-control {
+    margin-top: 10px;
+    width: 30%;
+}
+
+input[type="submit"] {
+    width: 100px
+}
