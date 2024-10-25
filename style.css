@@ -16,3 +16,8 @@ body {
 input[type="submit"] {
     width: 100px
 }
+
+.inputError {
+    border-color: red;
+    border-width: 3px;
+}
